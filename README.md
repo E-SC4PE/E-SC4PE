@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm ESC4PE</h1>
 <h3 align="center">A passionate developer</h3>
-<img align="right" alt="Coding" width="400" src="https://66.media.tumblr.com/23a1c55ae3770616a854e9dd2425c2f7/tumblr_pqxt102KWq1rvlnsbo1_500.gifv">
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
